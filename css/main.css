@@ -1,0 +1,28 @@
+.una, .tres, .cuatro, .cinco {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: #8F8F8F;
+	border: black solid;
+	}
+.dos {
+	width: 250px;
+	height: 80px;
+	background:#8F8F8F; 
+	margin:10px 10px 10px 10px;
+	border: black solid;
+	padding: 10px;
+	}/* Inserta tu CSS aqui */
+
+.tres, .cuatro {
+	display: inline-block;
+}
+.primera, .segunda, .tercera {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	border: black solid;
+	background: #8F8F8F;
+	display: inline-block;
+
+}
